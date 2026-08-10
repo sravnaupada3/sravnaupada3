@@ -14,11 +14,20 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+# Hi, I'm Sravanthi 👋
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+### Data Analyst | Business Analyst | BI & Analytics
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm a Data Analyst and Technical Business Analyst with a Master's in Data Science, 
+focused on turning business data into clear insights, dashboards, and practical 
+solutions.
+
+I enjoy working across the full analytics process — understanding business 
+requirements, exploring and cleaning data, analyzing trends, building dashboards, 
+and communicating insights to stakeholders.
+
+My current interests include data analytics, business intelligence, automation, 
+and applying AI to real-world business problems.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
