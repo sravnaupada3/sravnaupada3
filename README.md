@@ -34,9 +34,12 @@ and applying AI to real-world business problems.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
+
+- 📊 Building business-focused analytics dashboards using SQL and Power BI
+- 🤖 Developing practical Generative AI and RAG applications
+- 🐍 Building Python projects focused on real-world business problems
+- 📈 Expanding my portfolio across operations, healthcare, finance and customer analytics
 
 ## 🌱 Currently Learning 
 
