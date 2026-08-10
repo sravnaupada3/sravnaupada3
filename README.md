@@ -12,8 +12,6 @@
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
-
-## 🚀 About Me 
 # Hi, I'm Sravanthi 👋
 
 ### Data Analyst | Business Analyst | BI & Analytics
@@ -29,6 +27,15 @@ and communicating insights to stakeholders.
 My current interests include data analytics, business intelligence, automation, 
 and applying AI to real-world business problems.
 
+## 👩‍💻 About Me
+
+- 🎓 Master's in Data Science — Toronto Metropolitan University
+- 📊 Experience in Data Analytics and Technical Business Analysis
+- 💼 Currently working in Operations / Analytics as a Technical Business Analyst
+- 🧮 Strong interest in SQL, Python, Power BI and business intelligence
+- 🤖 Exploring Generative AI, RAG and AI-powered analytics
+- 📈 Interested in turning data into dashboards, insights and business decisions
+- 🌎 Open to Data Analyst, BI Analyst, Business Analyst and Analytics opportunities
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
