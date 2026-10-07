@@ -29,13 +29,25 @@ and applying AI to real-world business problems.
 
 ## 👩‍💻 About Me
 
-- 🎓 Master's in Data Science — Toronto Metropolitan University
-- 📊 Experience in Data Analytics and Technical Business Analysis
-- 💼 Currently working in Operations / Analytics as a Technical Business Analyst
-- 🧮 Strong interest in SQL, Python, Power BI and business intelligence
-- 🤖 Exploring Generative AI, RAG and AI-powered analytics
-- 📈 Interested in turning data into dashboards, insights and business decisions
-- 🌎 Open to Data Analyst, BI Analyst, Business Analyst and Analytics opportunities
+## 👋 About Me
+
+🎓 MSc Data Science | Toronto Metropolitan University
+
+💼 Technical Business Analyst with experience across AI products, data analytics, requirements, documentation, and product operations.
+
+🤖 Experience working in AI-focused product environments, translating business needs into structured requirements, user stories, feature dependencies, and clear documentation.
+
+📊 Hands-on with SQL, Python, Power BI, Excel, and data analysis for business and operational decision-making.
+
+📋 Interested in AI/ML Business Analysis, Model Governance, Model Validation, Risk & Compliance, and AI Product Delivery.
+
+🧩 Experienced in bridging business and technical teams through requirements analysis, process documentation, data validation, and cross-functional coordination.
+
+🛠️ Currently strengthening practical skills in Jira, Confluence, Agile/SDLC, AI/ML model lifecycle, and model risk management.
+
+🌱 Building portfolio projects around AI governance, financial analytics, GenAI/RAG, and data-driven business solutions.
+
+📍 Toronto, Canada
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
