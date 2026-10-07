@@ -27,7 +27,6 @@ and communicating insights to stakeholders.
 My current interests include data analytics, business intelligence, automation, 
 and applying AI to real-world business problems.
 
-## 👩‍💻 About Me
 
 ## 👋 About Me
 
@@ -49,16 +48,23 @@ and applying AI to real-world business problems.
 
 📍 Toronto, Canada
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/
 
 
 
-- 📊 Building business-focused analytics dashboards using SQL and Power BI
-- 🤖 Developing practical Generative AI and RAG applications
-- 🐍 Building Python projects focused on real-world business problems
-- 📈 Expanding my portfolio across operations, healthcare, finance and customer analytics
+- ## 🔭 What I'm Currently Working On
+
+📋 Building practical Business Analysis projects focused on requirements, user stories, process workflows, and AI/ML project documentation.
+
+🤖 Developing an AI/ML Model Governance & Validation portfolio project covering model lifecycle, validation workflows, risk controls, documentation, and audit readiness.
+
+📊 Building business-focused analytics projects using SQL, Python, Power BI, and Excel.
+
+🧠 Developing practical GenAI, RAG, and AI-agent projects focused on real business use cases.
+
+🔗 Practicing Jira and Confluence workflows for requirements management, sprint tracking, documentation, and cross-functional project coordination.
+
+💼 Building an end-to-end portfolio that combines Data Science, Business Analysis, AI/ML, and product delivery.
 
 ## 🌱 Currently Learning 
 
