@@ -66,14 +66,68 @@ and applying AI to real-world business problems.
 
 💼 Building an end-to-end portfolio that combines Data Science, Business Analysis, AI/ML, and product delivery.
 
-## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+
+ ## 🌱 Currently Learning
+
+🔹 AI/ML Model Governance & Model Validation  
+🔹 Model Risk Management & Audit Readiness  
+🔹 Jira – Epics, Stories, Backlogs, Sprints, Dependencies & Issue Tracking  
+🔹 Confluence – Requirements, Technical Documentation & Knowledge Management  
+🔹 Agile / SDLC / Requirements Management  
+🔹 GenAI, RAG & Agentic AI  
+
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<!-- T## 🛠️ Technical Skillset
+
+### Business Analysis & Project Delivery
+- Requirements Gathering & Elicitation
+- Business & Functional Requirements
+- User Stories & Acceptance Criteria
+- Process Mapping
+- Feature & Dependency Analysis
+- Stakeholder Collaboration
+- Agile / SDLC
+- Project & Deliverable Tracking
+
+### AI / ML & Governance
+- AI/ML Lifecycle
+- Model Governance
+- Model Validation Concepts
+- Model Risk Management
+- Data & Model Documentation
+- Risk & Control Documentation
+- Data Validation
+- Audit Readiness
+- AI / GenAI
+- RAG
+
+### Project & Documentation Tools
+- Jira
+- Confluence
+- Git / GitHub
+- Microsoft Excel
+
+### Data & Analytics
+- SQL
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Tableau
+- Excel
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- KPI Development
+
+### Programming & Data
+- Python
+- SQL
+- Pandas
+- NumPy
+- APIs  his section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
